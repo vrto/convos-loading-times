@@ -1,0 +1,15 @@
+logs
+.history
+dist
+/.idea
+/*.iml
+/out
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/bin
+.gradle
+/build/
+gradle-app.setting
+.gradletasknamecache
